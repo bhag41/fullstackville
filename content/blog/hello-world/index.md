@@ -15,3 +15,5 @@ Oh, and here's the regional website/community that I have founded/developed for 
 
 Here is the picture of Me!.. :) 
 
+![laketahoe](./laketahoe.jpg)
+
