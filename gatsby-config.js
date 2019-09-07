@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Journey to Fullstackville`,
+    title: `Fullstackville`,
     author: `Bhagyashree Kulkarni (AKA BK)`,
     description: `journal of my fullstack journey`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
